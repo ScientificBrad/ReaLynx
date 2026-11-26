@@ -1,0 +1,8 @@
+# Keep firmware dumps, game ROMs, release staging, and build outputs private/clean.
+/BOOTROM/*
+/ROMs/*
+/dist/
+**/bin/
+**/obj/
+**/.vs/
+**/*.user

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReaLynx.Core", "ReaLynx.Core\ReaLynx.Core.csproj", "{35099155-F489-419E-AFB9-AE45ACC76F89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReaLynx.Cli", "ReaLynx.Cli\ReaLynx.Cli.csproj", "{4592142F-47CC-440B-A3F0-F23A204EE023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReaLynx.Win", "ReaLynx.Win\ReaLynx.Win.csproj", "{BFC145D9-B0BE-45A9-8923-08537F651FA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReaLynx.Tests", "ReaLynx.Tests\ReaLynx.Tests.csproj", "{255D6E52-8AE1-406B-9026-1CA8DB4BF7C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35099155-F489-419E-AFB9-AE45ACC76F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35099155-F489-419E-AFB9-AE45ACC76F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35099155-F489-419E-AFB9-AE45ACC76F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35099155-F489-419E-AFB9-AE45ACC76F89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4592142F-47CC-440B-A3F0-F23A204EE023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4592142F-47CC-440B-A3F0-F23A204EE023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4592142F-47CC-440B-A3F0-F23A204EE023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4592142F-47CC-440B-A3F0-F23A204EE023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC145D9-B0BE-45A9-8923-08537F651FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC145D9-B0BE-45A9-8923-08537F651FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC145D9-B0BE-45A9-8923-08537F651FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC145D9-B0BE-45A9-8923-08537F651FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{255D6E52-8AE1-406B-9026-1CA8DB4BF7C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255D6E52-8AE1-406B-9026-1CA8DB4BF7C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255D6E52-8AE1-406B-9026-1CA8DB4BF7C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255D6E52-8AE1-406B-9026-1CA8DB4BF7C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
